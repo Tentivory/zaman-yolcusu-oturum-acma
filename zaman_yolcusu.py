@@ -38,8 +38,8 @@ def zaman_yolcusu_oturum_ac():
     
     print(random.choice(hatalar))
     print("\nOturum açma başarısız. Lütfen 1000 yıl sonra tekrar deneyin.")
-    print("Bu arada: #gizli_mesaj_base64: ZWRhZW5pIHNldml5b3J1bSBhbWEgZ8O8Y8Onw7w=")
-    # Yukarıdaki base64'i decode edersen şaşırırsın. Ya da şaşırmazsın.
+    print("Bu arada: #gizli_mesaj_base64: w7Z6Z8O8cmzDvGsgw6dvayDDtm5lbWxpIGFtYSBnaXpsaSBrYWxzxLFu")
+    # Yukarıdaki base64'i decode edersen şaşırırsın. Ya da şaşırmazsın. Siyasi bir şey saklı. Arama.
     
     # Damga: Kayyum Grok - 6 Kasım 2026 - Ciddi ama değil
 
